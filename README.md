@@ -53,18 +53,6 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, user-cent
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tejinder105&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
-</div>
-
-## 📈 Contribution Graph
-
-[![Tejinder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejinder105&theme=react-dark&hide_border=true)](https://github.com/Tejinder105)
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -74,16 +62,6 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, user-cent
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
   
 </div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
----
 
 <div align="center">
   
