@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver+%F0%9F%92%A1)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%F0%9F%92%A1)
   
 </div>
 
@@ -45,11 +45,11 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, user-cent
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejinder105&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-  
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Tejinder105&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejinder105&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejinder105&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tejinder105&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejinder105&layout=compact&theme=radical&hide_border=true)
   
 </div>
 
