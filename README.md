@@ -1,72 +1,41 @@
-# Hi there, I'm Tejinderpal Singh 👋
+<h1 align="center">Tejinderpal Singh</h1>
 
+<!-- BANNER — dark.svg + light.svg live in this repo's root. Theme swaps automatically. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Tejinder015/Tejinder015/main/dark.svg">
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Tejinder015/Tejinder015/main/light.svg">
+  <img alt="Tejinderpal Singh" src="https://raw.githubusercontent.com/Tejinder015/Tejinder015/main/light.svg">
+</picture>
+
+<!-- STATS — self-host first (see checklist), then replace YOUR-INSTANCE with your vercel.app subdomain. -->
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%F0%9F%92%A1)
-  
+<img width="100%" src="https://streak-stats.demolab.com/?user=Tejinder015&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Tejinder015&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Tejinder015&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
-## 🚀 About Me
-
-I'm a passionate **Full-Stack Developer** who loves building scalable, user-centric applications and contributing to open-source. Currently working on AI-powered multilingual platforms and exploring the intersection of web development and artificial intelligence.
-
-- 🔭 **Currently Building:** A full-stack news & article platform with React, Node.js, MongoDB, featuring AI-powered multilingual content (English, Hindi, Punjabi)
-- 🌱 **Learning:** Advanced System Design, Scalable Backend Architectures, AI Integrations, and DSA patterns
-- 💡 **Philosophy:** I enjoy breaking complex systems down until they feel simple 😄
-- 👯 **Open to Collaborate:** Web development projects, AI tools, and developer platforms
-- 💬 **Ask me about:** React, MERN stack, REST APIs, MongoDB, Auth0, SEO optimization, and Data Structures & Algorithms
-
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Statistics
-
+<!-- SNAKE — add this block ONLY after the Action runs green and creates the `output` branch. -->
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejinder105&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tejinder105&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejinder105&layout=compact&theme=radical&hide_border=true)
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Tejinder015/Tejinder015/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Tejinder015/Tejinder015/output/github-snake.svg" />
+  <img alt="Snake eating my contributions"
+      src="https://raw.githubusercontent.com/Tejinder015/Tejinder015/output/github-snake.svg" />
+</picture>
 </div>
 
-## 🌐 Let's Connect
-
+<!-- BADGES — LinkedIn stays #0A66C2 (shields.io bug: the glyph vanishes on other colours). -->
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejinderpal-singh-5549a1286/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejinderp105@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
-  
-</div>
-
-<div align="center">
-  
-  ![Profile Views](https://visitcount.itsvg.in/api?id=Tejinder105&icon=5&color=6)
-  
-  **Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration 🚀**
-  
+<a href="https://www.linkedin.com/in/tejinderpal-singh-5549a1286/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mtejinderp105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
 </div>
